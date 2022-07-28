@@ -1,18 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hi,%20I%20am%20Seungwoo✋&fontSize=50&animation=fadeIn&customColorList=1)
 
-# 🔭 I’m currently learning ...
+## 🔭 I’m currently learning ...
 - How to **communicate**, **collaborate**, and develop with others
 - How to make a website responsive to **smartphone-capable**
 - How to build **reusable code** for future use
 - How to build a good, **clean and neat** code
 
-# 📚 Technology Stack
+## 📚 Technology Stack
+##### C/C++
 <span>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
 </span>
 <span>
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </span>
+
+##### Web
 <span>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 </span>
@@ -31,11 +34,22 @@
 <span>
 <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
 </span>
+<span>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+</span>
 
-# 📱 Contact Me
+##### Database
+<span>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+</span>
+<span>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
+</span>
+
+## 📱 Contact Me
 - **`Instagram`** : @februarycloud_
 - **`GMail`** : seanneony@gmail.com
-- **`Naver Mail`** : timosean@naver.com
+- **`Naver`** : timosean@naver.com
 
 
 <!--
